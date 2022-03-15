@@ -1,2 +1,5 @@
 # Subtract-A-Square-Game
-Simple game where two players subtract a square number from a pile of coins and the player who removes the last coin from the pile is the winner.
+
+## Description
+Simple game where two players enter a square number to remove from a pile of coins.
+The player who removes the last coin from the pile is the winner.
